@@ -1,0 +1,26 @@
+{
+  "name": "nk-csv-stream",
+  "version": "0.0.0",
+  "description": "Load and parse a CSV file",
+  "main": "index.js",
+  "keywords": [
+    "browser",
+    "csv",
+    "stream",
+    "xhr"
+  ],
+  "license": "MIT",
+  "author": "Antoine Lehurt <code@kewah.com> (http://kewah.com/)",
+  "homepage": "https://github.com/nk-components/nk-csv-stream",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nk-components/nk-csv-stream"
+  },
+  "bugs": {
+    "url": "https://github.com/nk-components/nk-csv-stream/issues"
+  },
+  "dependencies": {
+    "buffered-xhr-stream": "^0.1.4",
+    "component-emitter": "^1.1.3"
+  }
+}
