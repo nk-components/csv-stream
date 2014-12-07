@@ -1,6 +1,6 @@
 {
   "name": "nk-csv-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Load and parse a CSV file",
   "main": "index.js",
   "keywords": [
